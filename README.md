@@ -8,7 +8,8 @@ Free code HTML CSS Javascript and Free learning web developer
 
 ## Image in project
 
-![Alt text](Capture.PNG "Lun Dev")
+![Alt text](Capture.PNG "Lun Dev") 
+- [Detailed instructions on this project](https://www.lundevweb.com/2023/01/tabs-slider-voi-html-css-va-javascript.html)
 
 
 ## Follow me for more free codes
